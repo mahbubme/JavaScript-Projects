@@ -5,3 +5,4 @@
 ###### [03. Update CSS Variables With JS](https://mahbub.me/project/JavaScript-Projects/03.Update-CSS-Variables-With-JS/)
 ###### [04. Array Cardio](https://mahbub.me/project/JavaScript-Projects/04.Array-Cardio-Day-1/)
 ###### [05. Flex Panels Image Gallery](https://mahbub.me/project/JavaScript-Projects/05.Flex-Panels-Image-Gallery/)
+###### [06. Ajax Type Ahead](https://mahbub.me/project/JavaScript-Projects/06.Ajax-Type-Ahead/)
