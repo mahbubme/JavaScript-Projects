@@ -6,3 +6,4 @@
 ###### [04. Array Cardio](https://mahbub.me/project/JavaScript-Projects/04.Array-Cardio-Day-1/)
 ###### [05. Flex Panels Image Gallery](https://mahbub.me/project/JavaScript-Projects/05.Flex-Panels-Image-Gallery/)
 ###### [06. Ajax Type Ahead](https://mahbub.me/project/JavaScript-Projects/06.Ajax-Type-Ahead/)
+###### [07. Array Cardio 2](http://mahbub.me/project/JavaScript-Projects/07.Array-Cardio-Day-2/)
