@@ -8,3 +8,4 @@
 ###### [06. Ajax Type Ahead](https://mahbub.me/project/JavaScript-Projects/06.Ajax-Type-Ahead/)
 ###### [07. Array Cardio 2](https://mahbub.me/project/JavaScript-Projects/07.Array-Cardio-Day-2/)
 ###### [08. Fun with HTML5 Canvas](https://mahbub.me/project/JavaScript-Projects/08.Fun-with-HTML5-Canvas/)
+###### [09. Dev Tools Tricks](https://mahbub.me/project/JavaScript-Projects/09.Dev-Tools-Tricks/)
