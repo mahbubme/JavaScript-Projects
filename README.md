@@ -11,3 +11,4 @@
 ###### [09. Dev Tools Tricks](https://mahbub.me/project/JavaScript-Projects/09.Dev-Tools-Tricks/)
 ###### [10. Hold Shift to Check Multiple Checkboxes](https://mahbub.me/project/JavaScript-Projects/10.Hold-Shif-to-Check-Multiple-Checkboxes/)
 ###### [11. Custom HTML5 Video Player](https://mahbub.me/project/JavaScript-Projects/11.Custom-HTML5-Video-Player/)
+###### [12. Key Sequence Detection](https://mahbub.me/project/JavaScript-Projects/12.Key-Sequence-Detection/)
