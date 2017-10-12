@@ -13,3 +13,4 @@
 ###### [11. Custom HTML5 Video Player](https://mahbub.me/project/JavaScript-Projects/11.Custom-HTML5-Video-Player/)
 ###### [12. Key Sequence Detection](https://mahbub.me/project/JavaScript-Projects/12.Key-Sequence-Detection/)
 ###### [13. Slide In On Scroll](https://mahbub.me/project/JavaScript-Projects/13.Slide-In-On-Scroll/)
+###### [14. JavaScript References VS Copying](https://mahbub.me/project/JavaScript-Projects/14.JavaScript-References-VS-Copying/)
