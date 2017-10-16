@@ -14,4 +14,5 @@
 ###### [12. Key Sequence Detection](https://mahbub.me/project/JavaScript-Projects/12.Key-Sequence-Detection/)
 ###### [13. Slide In On Scroll](https://mahbub.me/project/JavaScript-Projects/13.Slide-In-On-Scroll/)
 ###### [14. JavaScript References VS Copying](https://mahbub.me/project/JavaScript-Projects/14.JavaScript-References-VS-Copying/)
-###### [14. LocalStorage and Event Delegation](https://mahbub.me/project/JavaScript-Projects/15.LocalStorage-and-Event-Delegation/)
+###### [15. LocalStorage and Event Delegation](https://mahbub.me/project/JavaScript-Projects/15.LocalStorage-and-Event-Delegation/)
+###### [16. Mouse Move Shadow](https://mahbub.me/project/JavaScript-Projects/16.Mouse-Move-Shadow/)
