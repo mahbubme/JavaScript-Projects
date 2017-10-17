@@ -16,3 +16,4 @@
 ###### [14. JavaScript References VS Copying](https://mahbub.me/project/JavaScript-Projects/14.JavaScript-References-VS-Copying/)
 ###### [15. LocalStorage and Event Delegation](https://mahbub.me/project/JavaScript-Projects/15.LocalStorage-and-Event-Delegation/)
 ###### [16. Mouse Move Shadow](https://mahbub.me/project/JavaScript-Projects/16.Mouse-Move-Shadow/)
+###### [17. Sort Without Articles](https://mahbub.me/project/JavaScript-Projects/17.Sort-Without-Articles/)
