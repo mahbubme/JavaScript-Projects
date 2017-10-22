@@ -17,3 +17,5 @@
 ###### [15. LocalStorage and Event Delegation](https://mahbub.me/project/JavaScript-Projects/15.LocalStorage-and-Event-Delegation/)
 ###### [16. Mouse Move Shadow](https://mahbub.me/project/JavaScript-Projects/16.Mouse-Move-Shadow/)
 ###### [17. Sort Without Articles](https://mahbub.me/project/JavaScript-Projects/17.Sort-Without-Articles/)
+###### [18. Adding Up Times with Reduce](https://mahbub.me/project/JavaScript-Projects/18.Adding-Up-Times-with-Reduce/)
+###### [19. Webcam Fun](https://mahbub.me/project/JavaScript-Projects/19.Webcam-Fun/)
