@@ -19,3 +19,4 @@
 ###### [17. Sort Without Articles](https://mahbub.me/project/JavaScript-Projects/17.Sort-Without-Articles/)
 ###### [18. Adding Up Times with Reduce](https://mahbub.me/project/JavaScript-Projects/18.Adding-Up-Times-with-Reduce/)
 ###### [19. Webcam Fun](https://mahbub.me/project/JavaScript-Projects/19.Webcam-Fun/)
+###### [20. Speech Detection](https://mahbub.me/project/JavaScript-Projects/20.Speech-Dectection/)
