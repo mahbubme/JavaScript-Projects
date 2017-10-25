@@ -20,3 +20,4 @@
 ###### [18. Adding Up Times with Reduce](https://mahbub.me/project/JavaScript-Projects/18.Adding-Up-Times-with-Reduce/)
 ###### [19. Webcam Fun](https://mahbub.me/project/JavaScript-Projects/19.Webcam-Fun/)
 ###### [20. Speech Detection](https://mahbub.me/project/JavaScript-Projects/20.Speech-Dectection/)
+###### [21. Geolocation](https://mahbub.me/project/JavaScript-Projects/21.Geolocation/)
