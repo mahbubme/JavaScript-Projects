@@ -21,3 +21,4 @@
 ###### [19. Webcam Fun](https://mahbub.me/project/JavaScript-Projects/19.Webcam-Fun/)
 ###### [20. Speech Detection](https://mahbub.me/project/JavaScript-Projects/20.Speech-Dectection/)
 ###### [21. Geolocation](https://mahbub.me/project/JavaScript-Projects/21.Geolocation/)
+###### [22. Follow Along Link Highlighter](http://mahbub.me/project/JavaScript-Projects/22.Follow-Along-Link-Highlighter/)
