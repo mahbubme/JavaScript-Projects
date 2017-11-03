@@ -23,3 +23,4 @@
 ###### [21. Geolocation](https://mahbub.me/project/JavaScript-Projects/21.Geolocation/)
 ###### [22. Follow Along Link Highlighter](https://mahbub.me/project/JavaScript-Projects/22.Follow-Along-Link-Highlighter/)
 ###### [23. Speech Synthesis](https://mahbub.me/project/JavaScript-Projects/23.Speech-Synthesis/)
+###### [24. Sticky Nav](https://mahbub.me/project/JavaScript-Projects/24.Sticky-Nav/)
